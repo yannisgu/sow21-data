@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"Enabled":false,"TitleEN":null,"TitleDE":null,"MessageEN":null,"MessageDE":null,"SendPush":false}
+=======
+{"Enabled":true,"TitleEN":"Test Hittnau 8","TitleDE":"Test D 8","MessageEN":"Hallo 8","MessageDE":"Test auf deutsch 8","SendPush":false}
+>>>>>>> f676e4531f5d9a34194640a9e5b701800d5f7f5d
